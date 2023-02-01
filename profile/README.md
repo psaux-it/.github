@@ -2,13 +2,22 @@ Hey, this is us :wave:
 
 ![thisisus](https://user-images.githubusercontent.com/25556606/216186940-bc89ceb7-9029-4453-a98e-8a1339be528e.png)
 
-We creating the leading Open Source Projects !
+We creating the leading Open Source Projects ! Providing DNS, Mail, VPN server solutions.
 
 ## Get in touch
 We build with Linux, automate it and never look back. We always support opensource and take advantage of it. We automate and develop your systems with power of shell scripting, perl and python. Our strenght comes from our open source code knowledge. We support open source always and helping to community to fix all kind of bugs. Our experienced worlwide employees work for Linux distributions for packaging and bug fixing officially. While we help to community we collect the information, master the code and ready to integrate it to your system according to your needs.
 
-Check our works -- https://www.psauxit.com/our-works/<br />
-Contact us -- https://www.psauxit.com/contact/
+Check our works -- https://www.psauxit.com/our-works/<br/>
+Our Free Pentest Service -- https://pentest.psauxit.com/<br/>
+Our Free Online Web Tools Service -- https://tools.psauxit.com/
+
+
+### Our DNSSEC Signed DNS Servers that we can host you
+ns1.psauxit.com<br/>
+ns2.psauxit.com
+
+### Our Trusted Mail Server that we can give relay
+mail.psauxit.com <br/>
 
 ## Job Opportunities
 We are always happy to find new members for our team, offering various career opportunities, like
@@ -16,3 +25,9 @@ We are always happy to find new members for our team, offering various career op
 Developers passionate for building Open Source projects with Python and Go
 Researchers, security analysts, developers with interest in implementing checks for newest vulnerabilities
 Interested? Please contact support@psauxit.com
+
+Contact us -- https://www.psauxit.com/contact/
+
+<a href="https://www.abuseipdb.com/user/50466" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/50466.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+</a>
