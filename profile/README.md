@@ -37,6 +37,9 @@ ___
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakerenel&layout=compact&hide_title=true" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbeyzayildiz&layout=compact&hide_title=true" />
+</a>
 
 ___
 ### Stats
