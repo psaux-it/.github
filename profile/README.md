@@ -28,6 +28,24 @@ Interested? Please contact support@psauxit.com
 
 Contact us -- https://www.psauxit.com/contact/
 
+___
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dupdup&layout=compact&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acdinc&layout=compact&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakerenel&layout=compact&hide_title=true" />
+</a>
+
+___
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsntgm&show_icons=true&theme=transparent&hide_title=true)
+
+___
 <a href="https://www.abuseipdb.com/user/50466" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/50466.svg" alt="AbuseIPDB Contributor Badge" style="width: 260px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
 </a>
+
+
+
