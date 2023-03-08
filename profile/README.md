@@ -19,7 +19,7 @@ ns2.psauxit.com
 ### Our Trusted Mail Server that we can give relay
 mail.psauxit.com <br/>
 
-### Job Opportunities
+### Opportunities
 We are always happy to find new members for our open source organisation.
 
 Developers passionate for building Open Source projects, researchers, front-end developers, security analysts.<br />
