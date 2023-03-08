@@ -5,7 +5,7 @@
 We creating/following/contributing the leading Open Source Projects ! Providing open source integration services and also DNS, Mail, VPN server solutions.
 
 ### Get in touch
-We build with Linux, automate it and never look back. We always support opensource and take advantage of it. We automate and develop your systems with power of shell scripting, perl and python. Our strenght comes from our open source code knowledge. We support open source always and helping to community to fix all kind of bugs. Our experienced worlwide employees work for Linux distributions for packaging and bug fixing officially. While we help to community we collect the information, master the code and ready to integrate it to your system according to your needs.
+We build with Linux, automate it and never look back. We always support opensource and take advantage of it. We automate and develop your systems with power of shell scripting, perl and python. Our strenght comes from our open source code knowledge. We support open source always and helping to community to fix all kind of bugs. Our experienced worldwide members work for Linux distributions for packaging and bug fixing officially. While we help to community we collect the information, master the code and ready to integrate it to your system according to your needs.
 
 Check our works -- https://www.psauxit.com/our-works/<br/>
 Our Free Pentest Service -- https://pentest.psauxit.com/<br/>
