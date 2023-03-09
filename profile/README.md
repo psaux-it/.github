@@ -44,7 +44,7 @@ ___
 ___
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsntgm&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsntgm&show_icons=true&theme=transparent&hide_title=true&include_all_commits=false)
 
 ___
 <a href="https://www.abuseipdb.com/user/50466" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
