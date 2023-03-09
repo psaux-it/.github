@@ -12,7 +12,7 @@ Our Free Pentest Service -- https://pentest.psauxit.com/<br/>
 Our Free Online Web Tools Service -- https://tools.psauxit.com/
 
 
-### Our DNSSEC Signed DNS Servers that we can host you
+### Our DNSSEC Signed Name Servers that we can host you
 ns1.psauxit.com<br/>
 ns2.psauxit.com
 
