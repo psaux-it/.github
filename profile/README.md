@@ -61,7 +61,7 @@ As part of our commitment to the community, we collaborate to resolve issues, ga
 	<img src="https://www.abuseipdb.com/contributor/50466.svg" alt="AbuseIPDB Contributor Badge" style="width: 200px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
 </a>
 
-#### 🚀 Opportunities
+#### 🤝 Join Us
 We are always excited to welcome new members to our open-source organization. If you’re passionate about building Open Source projects, we’re looking for:
 
 - Developers
