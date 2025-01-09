@@ -2,33 +2,48 @@
 
 ![thisisus](https://user-images.githubusercontent.com/25556606/216186940-bc89ceb7-9029-4453-a98e-8a1339be528e.png)
 
-We creating/following/contributing the leading Open Source Projects ! Providing open source integration services and also DNS, Mail, VPN server solutions.
+### 🌍 Creating, Following, and Contributing to Leading Open-Source Projects!
 
-### Get in touch
-We always support opensource and take advantage of it. Our strenght comes from our open source code knowledge. We support open source always and helping to community to fix all kind of bugs. Our experienced worldwide members work for Linux distributions for packaging and bug fixing officially. While we help to community we collect the information, master the code and ready to integrate it to your system according to your needs.
+We are passionate about providing powerful open-source tools and integration services.  
+We focus on:
 
-Check our works -- https://www.psauxit.com/our-works/<br/>
+- 💡 **Creating** innovative open-source solutions
+- 🔄 **Following** trends and advancements in the open-source community
+- 🤝 **Contributing** to leading open-source projects
 
-### Ongoing Projects
+### 📬 Get in touch
+We are strong advocates of open-source software and actively contribute to the community. Our expertise is built on years of experience working with open-source code, and we are dedicated to supporting and improving it. Our global team of experts works on packaging, bug fixing, and maintaining Linux distributions at an official level.
 
-Our Free Pentest Service -- https://pentest.psauxit.com/<br/>
-Our Free Online Web Tools Service -- https://tools.psauxit.com/<br/>
-Our Free WooCommerce-Aras Cargo Integration -- https://github.com/psaux-it/woocommerce-aras-kargo
+As part of our commitment to the community, we collaborate to resolve issues, gather insights, and refine code. We are ready to integrate and adapt solutions to meet your specific needs, ensuring seamless system integration and optimal performance.
 
+### 🌟 Top Projects
 
-### Our DNSSEC Signed Name Servers that we can host you
-ns1.psauxit.com<br/>
-ns2.psauxit.com
+- **[Nginx Cache Purge & Preload for WordPress Plugin](https://github.com/psaux-it/nginx-fastcgi-cache-purge-and-preload)**  
+  Streamline your WordPress performance with efficient Nginx cache management. Enhance your site’s speed and reliability with easy cache purge and preload functionality.
 
-### Our Trusted Mail Server that we can give relay
-mail.psauxit.com <br/>
+- **[WooCommerce-Aras Cargo Integration (Aras Kargo Entegrasyonu)](https://github.com/psaux-it/woocommerce-aras-kargo)**  
+  Seamlessly integrate Aras Kargo’s shipping services into your WooCommerce store for a smooth e-commerce experience, optimizing shipping and order tracking.
 
-### Opportunities
-We are always happy to find new members for our open source organisation.
+### 🔐 Our DNSSEC Signed Name Servers
+- **ns1.psauxit.com**
+- **ns2.psauxit.com**
 
-Developers passionate for building Open Source projects, researchers, front-end developers, security analysts.<br />
+### 📧 Our Trusted Mail Server
+- **mail.psauxit.com**
 
-Interested? Please contact support@psauxit.com - https://www.psauxit.com/contact/
+### 🚀 Opportunities
+We are always excited to welcome new members to our open-source organization. If you’re passionate about building Open Source projects, we’re looking for:
+
+- Developers
+- Researchers
+- Front-end developers
+- Security analysts
+
+Interested? Please reach out to us at:
+
+📧 **[support@psauxit.com](mailto:support@psauxit.com)**  
+🌐 **[Contact Us](https://www.psauxit.com/contact/)**
+
 ___
 ### Member's Top Languages
 
